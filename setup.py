@@ -17,7 +17,7 @@ classifiers = ['Development Status :: 4 - Beta',
                'Topic :: Software Development',
                'Topic :: System :: Hardware']
 
-setup(name              = 'Adafruit_SSD1306',
+setup(name              = 'Adafruit_SSD1306_kw',
       version           = '1.6.2',
       author            = 'Tony DiCola',
       author_email      = 'tdicola@adafruit.com',
